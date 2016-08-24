@@ -31,8 +31,8 @@ install:
 
 before_script:
   - ember -v
-  - export hello=world
+  - export greet="hello world"
 
 script:
   - ember test
-  - echo hello
+  - echo $greet
