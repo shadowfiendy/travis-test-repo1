@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember test"
   },
-  "repository": "",
+  "repository": "https://github.com/shadowfiendy/travis-test-repo1",
   "engines": {
     "node": ">= 0.10.0"
   },
